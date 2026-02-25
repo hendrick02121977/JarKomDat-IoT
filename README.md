@@ -14,7 +14,7 @@ Repositori ini berisi bahan ajar, praktikum, dan proyek berbasis **ESP32 sensor*
 | Minggu | Materi | Aktivitas | Output | Link Materi |
 |--------|--------|-----------|--------|-------------|
 | 1 | Konsep dasar jaringan komunikasi data | Diskusi, studi literatur | Ringkasan protokol | [Klik](https://www.canva.com/design/DAHCWd6Bzfo/R7jqJz2EclAEe3bGxl6dvQ/edit?utm_content=DAHCWd6Bzfo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
-| 2 | Arsitektur IoT & protokol (MQTT, HTTP, CoAP) | Simulasi jaringan | Diagram arsitektur | [Klik](https://www.canva.com/design/DAHCWd6Bzfo/R7jqJz2EclAEe3bGxl6dvQ/edit?utm_content=DAHCWd6Bzfo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| 2 | Arsitektur IoT & protokol (MQTT, HTTP, CoAP) | Simulasi jaringan | Diagram arsitektur | [Klik](https://www.canva.com/design/DAHCWprITzU/YawxmL9IULNOmO4aj3XVUQ/edit?utm_content=DAHCWprITzU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 3 | Pengenalan ESP32: GPIO, WiFi, Bluetooth | Praktikum konfigurasi | Program sederhana ESP32 | [Klik](https://www.canva.com/design/DAHCWd6Bzfo/R7jqJz2EclAEe3bGxl6dvQ/edit?utm_content=DAHCWd6Bzfo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 4 | Akuisisi data sensor (DHT11, Ultrasonik, dsb.) | Praktikum | Data sensor via serial | Klik disini |
 | 5 | Komunikasi ESP32 ke server (MQTT broker) | Praktikum | ESP32 publish data | Klik disini |
