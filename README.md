@@ -59,4 +59,6 @@ Mahasiswa akan membangun sistem IoT terpadu:
 Output berupa prototype sistem yang dapat dipresentasikan dan diuji.
 
 ---
-
+## Praktikum
+- [Praktikum 1](link_praktikum_1)
+- [Praktikum 2](https://www.canva.com/design/DAHCW1tkh3M/J-W7NT_7MXMxPERihNJESw/edit?utm_content=DAHCW1tkh3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) — simulasi
