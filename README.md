@@ -11,23 +11,24 @@ Repositori ini berisi bahan ajar, praktikum, dan proyek berbasis **ESP32 sensor*
 - Merancang sistem terpadu IoT berbasis komunikasi data real-time.  
 
 ## 🗂️ Struktur Materi
-| Minggu | Materi | Aktivitas | Output |
-|--------|--------|-----------|--------|
-| 1 | Konsep dasar jaringan komunikasi data | Diskusi, studi literatur | Ringkasan protokol |
-| 2 | Arsitektur IoT & protokol (MQTT, HTTP, CoAP) | Simulasi jaringan | Diagram arsitektur |
-| 3 | Pengenalan ESP32: GPIO, WiFi, Bluetooth | Praktikum konfigurasi | Program sederhana ESP32 |
-| 4 | Akuisisi data sensor (DHT11, Ultrasonik, dsb.) | Praktikum | Data sensor via serial |
-| 5 | Komunikasi ESP32 ke server (MQTT broker) | Praktikum | ESP32 publish data |
-| 6 | Jetson Nano: setup, Python, AI libraries | Praktikum | Jetson Nano siap digunakan |
-| 7 | Integrasi ESP32 → Jetson Nano (data pipeline) | Praktikum | Jetson menerima data sensor |
-| 8 | Pemrosesan data di Jetson Nano (Python, AI) | Praktikum | Analisis data sensor |
-| 9 | Visualisasi data (Grafana/Matplotlib) | Praktikum | Dashboard sederhana |
-| 10 | Sistem terpadu: sensor → ESP32 → Jetson Nano → dashboard | Proyek kelompok | Sistem IoT berjalan |
-| 11 | Studi kasus industri (misal: VMS, smart factory) | Presentasi | Studi kasus terpilih |
-| 12 | Ujian praktik | Praktikum | Sistem IoT mini-project |
-| 13–14 | Proyek akhir: sistem terpadu IoT | Kerja kelompok | Prototype sistem |
-| 15 | Presentasi proyek akhir | Presentasi | Demo sistem |
-| 16 | Evaluasi & refleksi | Diskusi | Laporan akhir |
+| Minggu | Materi | Aktivitas | Output | Materi |
+|--------|--------|-----------|--------|--------|
+| 1 | Konsep dasar jaringan komunikasi data | Diskusi, studi literatur | Ringkasan protokol | [Klik di sini untuk melihat materi di Canva](https://www.canva.com/design/DAHCWd6Bzfo/R7jqJz2EclAEe3bGxl6dvQ/edit?utm_content=DAHCWd6Bzfo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ |
+| 2 | Arsitektur IoT & protokol (MQTT, HTTP, CoAP) | Simulasi jaringan | Diagram arsitektur |Klik disini|
+| 3 | Pengenalan ESP32: GPIO, WiFi, Bluetooth | Praktikum konfigurasi | Program sederhana ESP32 |Klik disini|
+| 4 | Akuisisi data sensor (DHT11, Ultrasonik, dsb.) | Praktikum | Data sensor via serial |Klik disini|
+| 5 | Komunikasi ESP32 ke server (MQTT broker) | Praktikum | ESP32 publish data |Klik disini|
+| 6 | Jetson Nano: setup, Python, AI libraries | Praktikum | Jetson Nano siap digunakan |Klik disini|
+| 7 | Integrasi ESP32 → Jetson Nano (data pipeline) | Praktikum | Jetson menerima data sensor |Klik disini|
+| 8 | Pemrosesan data di Jetson Nano (Python, AI) | Praktikum | Analisis data sensor |Klik disini|
+| 9 | Visualisasi data (Grafana/Matplotlib) | Praktikum | Dashboard sederhana |Klik disini|
+| 10 | Sistem terpadu: sensor → ESP32 → Jetson Nano → dashboard | Proyek kelompok | Sistem IoT berjalan |Klik disini|
+| 11 | Studi kasus industri (misal: VMS, smart factory) | Presentasi | Studi kasus terpilih |Klik disini|
+| 12 | Ujian praktik | Praktikum | Sistem IoT mini-project |Klik disini|
+| 13–14 | Proyek akhir: sistem terpadu IoT | Kerja kelompok | Prototype sistem |Klik disini|
+| 15 | Presentasi proyek akhir | Presentasi | Demo sistem |Klik disini|
+| 16 | Evaluasi & refleksi | Diskusi | Laporan akhir |Klik disini|
 
 ## 📚 Metode Pembelajaran
 - Ceramah interaktif untuk teori jaringan dan IoT.  
